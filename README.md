@@ -64,7 +64,7 @@ CS undergrad at **SRM Institute of Science and Technology, Trichy**, building ba
 
 ---
 
-### `> contribution animation`
+### `> contributions`
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Dhanas3kar/Dhanas3kar/output/github-contribution-grid-snake-dark.svg" width="90%" />

@@ -70,8 +70,6 @@ CS undergrad at **SRM Institute of Science and Technology, Trichy**, building ba
 <img src="https://raw.githubusercontent.com/Dhanas3kar/Dhanas3kar/output/github-contribution-grid-snake-dark.svg" width="90%" />
 </div>
 
-> ⚠️ This snake animation needs a one-time GitHub Actions workflow enabled in your `Dhanas3kar/Dhanas3kar` repo — it's what generates the `output` branch this image points to. I've included it below; drop it in as `.github/workflows/snake.yml` and it'll run automatically from then on.
-
 ---
 
 ### `> currently`

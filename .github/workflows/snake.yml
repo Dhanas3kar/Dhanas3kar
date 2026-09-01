@@ -1,14 +1,10 @@
-# Save this file as: .github/workflows/snake.yml  in Dhanas3kar/Dhanas3kar
-#
-# This generates the "output" branch and the
-# github-contribution-grid-snake-dark.svg file that the README's
-# "> contribution --grid" section links to. Without this workflow enabled,
-# that image will 404 forever.
+# Save as: .github/workflows/snake.yml  (in Dhanas3kar/Dhanas3kar)
+# Generates the "output" branch + SVG the README's contribution animation points to.
 
 name: generate snake game from a contribution graph
 on:
   schedule:
-    - cron: "0 */12 * * *"   # runs twice a day
+    - cron: "0 */12 * * *"
   workflow_dispatch: {}
   push:
     branches:

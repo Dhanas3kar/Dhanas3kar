@@ -1,90 +1,126 @@
-# Hi, I'm Dhanasekar 👋
+<div align="center">
 
-### Software Developer | Backend & Full-Stack Engineering | AI & Data Systems
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,50:172554,100:7c3aed&height=210&section=header&text=DHANASEKAR&fontSize=58&fontColor=ffffff&fontAlignY=52&desc=Software%20Developer%20%7C%20Backend%20%7C%20AI%20%26%20Data%20Systems&descAlignY=73&descSize=16&descColor=c4b5fd&animation=fadeIn" width="100%" />
 
-I'm a Computer Science undergraduate who enjoys turning ideas into **practical, scalable software**.
+<br/>
 
-I build full-stack applications, backend services, data pipelines, and AI-powered systems with a strong focus on **clean architecture, APIs, databases, performance, and real-world problem solving**.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1100&color=A78BFA&center=true&vCenter=true&width=780&lines=Software+Developer+%7C+Backend+%26+Full+Stack;Building+Scalable+APIs+%26+Data+Systems;AI%2FML+%7C+Computer+Vision+%7C+LLM+Applications;Go+%7C+Python+%7C+TypeScript+%7C+PostgreSQL;Engineering+Real+Projects%2C+Not+Just+Tutorials;B.Tech+CSE+%7C+SRM+IST+Trichy+%7C+2027" alt="Typing SVG" />
 
-Currently exploring deeper into **backend engineering, distributed systems, cloud technologies, and AI-native software development**.
+<br/><br/>
+
+<a href="https://github.com/Dhanas3kar">
+<img src="https://img.shields.io/github/followers/Dhanas3kar?label=Followers&style=for-the-badge&color=7c3aed&labelColor=0b1020" />
+</a>
+&nbsp;
+<a href="https://github.com/Dhanas3kar?tab=repositories">
+<img src="https://img.shields.io/github/stars/Dhanas3kar?label=Total%20Stars&style=for-the-badge&color=06b6d4&labelColor=0b1020" />
+</a>
+
+</div>
 
 ---
 
-## 🚀 What I Build
+## `~/whoami`
 
-* 🌐 **Full-Stack Applications** — scalable web applications and user-focused products
-* ⚙️ **Backend Systems** — REST APIs, authentication, databases, and service architecture
-* 🤖 **AI/ML Applications** — computer vision, intelligent document processing, and AI-assisted systems
-* 📊 **Data Engineering** — ETL pipelines, validation, migration, reconciliation, and analytics
-* ☁️ **Cloud & DevOps** — Docker, AWS, CI/CD, Linux, and deployment workflows
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  Dhanasekar M.                                               │
+│                                                              │
+│  Computer Science & Engineering                              │
+│  SRM Institute of Science and Technology, Trichy             │
+│                                                              │
+│  I build software at the intersection of                    │
+│  backend engineering, data systems, and AI.                  │
+│                                                              │
+│  Interested in systems that are useful, measurable,           │
+│  maintainable, and built for real-world constraints.         │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 🛠️ Tech Stack
+## `> cat about.md`
+
+I'm a Computer Science undergraduate focused on **software engineering, backend development, data engineering, and applied AI**.
+
+I enjoy taking a problem from an idea to a working system: designing APIs, modeling data, implementing business logic, integrating AI capabilities, testing edge cases, and improving performance.
+
+My current engineering interests include:
+
+* ⚙️ Backend architecture & API design
+* 🗄️ PostgreSQL, Redis & data modeling
+* 🔄 ETL, data migration & validation
+* 🤖 AI/ML, computer vision & LLM applications
+* 🌐 Full-stack application development
+* 🐳 Docker, Linux, AWS & CI/CD
+* 🧠 Data Structures & Algorithms
+* 🏗️ System design & scalable architectures
+
+---
+
+## `> tech --stack`
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat\&logo=go\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat\&logo=postgresql\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat\&logo=c\&logoColor=black)
-
-### Backend & APIs
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
-![Go](https://img.shields.io/badge/Gin-00ADD8?style=flat\&logo=go\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=flat)
+<p>
+<img src="https://skillicons.dev/icons?i=python,go,typescript,javascript,c&theme=dark" />
+</p>
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=next.js\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
+</p>
 
-### Databases & Infrastructure
+### Backend & Data
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat\&logo=redis\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat\&logo=amazonaws\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mysql,redis&theme=dark" />
+</p>
 
-### AI / Data
+### AI / ML
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat\&logo=tensorflow\&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat\&logo=keras\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat\&logo=jupyter\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" />
+</p>
+
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,postman,vscode&theme=dark" />
+</p>
 
 ---
 
-## ⭐ Featured Projects
+## `> ls ./projects`
 
 ### 🛒 Thirumathi-Kart
 
 **Full-Stack E-Commerce Platform**
 
-A buyer-seller e-commerce system with authentication, product management, cart and order workflows.
+Buyer-seller e-commerce system with authentication, product management, cart workflows, order management and PostgreSQL-backed services.
 
-**Stack:** React · Go · PostgreSQL · JWT · bcrypt
+`React` `Go` `PostgreSQL` `JWT` `bcrypt`
 
-[View Repository](https://github.com/Dhanas3kar/Thirumathi-Kart)
+<a href="https://github.com/Rishinitt07/thirumathi_kart">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 ---
 
 ### 🧠 Hakiku
 
-**AI-Powered Intelligent Application**
+**AI / Software Engineering Project**
 
-A full-stack project focused on building practical AI-assisted functionality with modern backend and application architecture.
+A practical software system combining application development with intelligent functionality, built around real engineering workflows rather than a simple demonstration.
 
-**Stack:** Go · React · PostgreSQL · AI/ML
+`Go` `React` `PostgreSQL` `AI/ML`
 
-[View Repository](https://github.com/Dhanas3kar/Hakiku)
+<a href="https://github.com/Dhanas3kar/Hakiku">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 ---
 
@@ -92,9 +128,9 @@ A full-stack project focused on building practical AI-assisted functionality wit
 
 **Intelligent Automated Grading System**
 
-An AI-powered document processing and grading system combining OCR, handwriting recognition, and LLM-based evaluation.
+AI-assisted document evaluation pipeline combining OCR, handwriting recognition and LLM-based grading for automated assessment.
 
-**Focus:** OCR · Computer Vision · LLMs · Document Processing
+`Python` `FastAPI` `OCR` `Computer Vision` `LLMs`
 
 ---
 
@@ -102,9 +138,9 @@ An AI-powered document processing and grading system combining OCR, handwriting 
 
 **ETL & Data Migration Pipeline**
 
-A modular data migration system designed around extraction, transformation, validation, migration, idempotency, and reconciliation.
+Modular migration pipeline focused on extraction, transformation, validation, idempotency and reconciliation.
 
-**Stack:** Python · SQL · PostgreSQL · FastAPI · Docker
+`Python` `SQL` `PostgreSQL` `FastAPI` `Docker`
 
 ---
 
@@ -112,51 +148,102 @@ A modular data migration system designed around extraction, transformation, vali
 
 **Deep Learning Intrusion Detection System**
 
-A hybrid security system combining CNN + LSTM for attack classification with Autoencoder-based anomaly detection.
+Hybrid intrusion detection architecture using Autoencoder-based anomaly detection and CNN/LSTM-based attack classification.
 
-**Focus:** Deep Learning · Cybersecurity · Anomaly Detection
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhanas3kar&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanas3kar&layout=compact&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dhanas3kar&hide_border=true" />
-</p>
+`Python` `TensorFlow` `Keras` `Deep Learning` `Cybersecurity`
 
 ---
 
-## 🎯 Currently
+## `> contribution --analytics`
 
-* 🔨 Building production-oriented full-stack and backend systems
-* 🧩 Strengthening Data Structures & Algorithms
-* ⚙️ Learning scalable backend and distributed system design
-* ☁️ Exploring cloud infrastructure and DevOps
-* 🤖 Building practical AI-powered applications
-* 📚 Improving software engineering fundamentals
+<div align="center">
 
----
+<img src="https://streak-stats.demolab.com?user=Dhanas3kar&theme=transparent&hide_border=true&ring=7C3AED&fire=06B6D4&currStreakLabel=A78BFA&sideLabels=94A3B8&dates=64748B" width="65%" />
 
-## 🤝 Let's Connect
+<br/><br/>
 
-<p align="left">
-  <a href="https://github.com/Dhanas3kar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/dhanasekar-murugesan-a9321731a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanas3kar&theme=github-compact&hide_border=true&bg_color=0B1020&color=A78BFA&line=7C3AED&point=06B6D4&area=true" width="98%" />
 
-I'm open to **software engineering opportunities, internships, technical collaborations, and interesting engineering problems.**
+</div>
 
 ---
 
-<p align="center">
-  <i>Build. Measure. Learn. Repeat.</i>
-</p>
+## `> github --stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dhanas3kar&show_icons=true&hide_border=true&bg_color=0B1020&title_color=A78BFA&icon_color=06B6D4&text_color=CBD5E1&rank_icon=github" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanas3kar&layout=compact&hide_border=true&bg_color=0B1020&title_color=A78BFA&text_color=CBD5E1" height="170" />
+
+</div>
+
+---
+
+## `> current_focus`
+
+```text
+Backend Engineering     → Go, FastAPI, REST APIs, Authentication
+Data Engineering        → ETL, Migration, Validation, Reconciliation
+Databases               → PostgreSQL, MySQL, Redis, Data Modeling
+AI Engineering          → OCR, Computer Vision, LLM Applications
+System Design           → HLD, LLD, Scalability, Distributed Systems
+DSA                     → Arrays, Trees, Graphs, DP
+Cloud & DevOps          → AWS, Docker, Linux, CI/CD
+```
+
+---
+
+## `> engineering_principles`
+
+```text
+01  Understand the problem before writing code.
+
+02  Prefer simple architecture until complexity is justified.
+
+03  Design APIs and data models around real use cases.
+
+04  Measure performance instead of guessing.
+
+05  Validate data at system boundaries.
+
+06  Build for failure, not just the happy path.
+
+07  Write code that another engineer can maintain.
+```
+
+---
+
+## `> connect --all`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/dhanasekar-murugesan-a9321731a/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+ 
+
+<a href="https://github.com/Dhanas3kar">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+ 
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### `build → measure → learn → ship`
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:172554,100:0b1020&height=100&section=footer" width="100%" />
+
+</div>

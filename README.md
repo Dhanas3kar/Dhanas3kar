@@ -24,21 +24,30 @@ CS undergrad at **SRM Institute of Science and Technology, Trichy**, building ba
 
 ### `> stack`
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,go,typescript,javascript,react,nextjs,fastapi,nodejs,postgres,mysql,redis,tensorflow,opencv,docker,aws,linux,git,github&theme=dark" />
-</p>
+**Languages**
+<p align="left"><img src="https://skillicons.dev/icons?i=go,python,typescript,javascript,c&theme=dark" /></p>
+
+**Backend & Web**
+<p align="left"><img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,react,nextjs&theme=dark" /></p>
+
+**Data**
+<p align="left"><img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" /></p>
+
+**AI / ML**
+<p align="left"><img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" /></p>
+
+**Infra & Tools**
+<p align="left"><img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,postman&theme=dark" /></p>
 
 ---
 
 ### `> projects`
 
-| Project | What it does | Stack |
-|---|---|---|
-| **[Hakiku](https://github.com/Dhanas3kar/Hakiku)** | Full-stack app with intelligent functionality end-to-end | Go · React · PostgreSQL · AI/ML |
-| **[Thirumathi-Kart](https://github.com/Rishinitt07/thirumathi_kart)** | Buyer ↔ seller e-commerce platform | React · Go · PostgreSQL · JWT |
-| **Scribify AI** | OCR + LLM based automated grading | FastAPI · OCR · LLMs |
-| **QuotAI Migration** | ETL pipeline with validation & reconciliation | Python · SQL · Docker |
-| **CyberNeural IDS** | Deep-learning intrusion detection (CNN/LSTM + autoencoders) | PyTorch · Cybersecurity |
+- **[Hakiku](https://github.com/Dhanas3kar/Hakiku)** — a full-stack app built around intelligent functionality, from backend services to database to UI, end to end.
+- **[Thirumathi-Kart](https://github.com/Rishinitt07/thirumathi_kart)** — a full-stack e-commerce platform with buyer and seller workflows, auth, cart, and order management.
+- **Scribify AI** — an OCR + handwriting recognition pipeline feeding an LLM grader that scores and gives feedback on written answers.
+- **QuotAI Migration** — a modular ETL pipeline built for controlled transformation, validation, and reconciliation across data migrations.
+- **CyberNeural IDS** — a hybrid intrusion detection system combining autoencoder anomaly detection with CNN/LSTM classification.
 
 ---
 
@@ -52,6 +61,16 @@ CS undergrad at **SRM Institute of Science and Technology, Trichy**, building ba
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=Dhanas3kar&theme=transparent&hide_border=true&background=020617&ring=7C3AED&fire=06B6D4&currStreakLabel=67E8F9&sideLabels=94A3B8&dates=64748B" width="65%" />
 </div>
+
+---
+
+### `> contribution animation`
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Dhanas3kar/Dhanas3kar/output/github-contribution-grid-snake-dark.svg" width="90%" />
+</div>
+
+> ⚠️ This snake animation needs a one-time GitHub Actions workflow enabled in your `Dhanas3kar/Dhanas3kar` repo — it's what generates the `output` branch this image points to. I've included it below; drop it in as `.github/workflows/snake.yml` and it'll run automatically from then on.
 
 ---
 

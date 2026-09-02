@@ -1,0 +1,42 @@
+# Generates 3D isometric contribution calendar SVGs
+# The README references these from ./profile-3d-contrib/
+# Trigger manually the first time from the Actions tab after pushing.
+
+name: GitHub Profile 3D Contribution
+
+on:
+  schedule:
+    # Runs daily at 18:00 UTC
+    - cron: "0 18 * * *"
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-3d-contrib
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add -A .
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update 3D contribution calendar [skip ci]"
+            git push
+          fi

@@ -1,81 +1,32 @@
-<div align="center">
+<h1 align="center">Hey 👋, I'm Dhanasekar M</h1>
+<h3 align="center">Software Developer</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:071A2B,50:0C4A6E,75:312E81,100:020617&height=200&section=header&text=DHANASEKAR%20M.&fontSize=48&fontColor=E0F2FE&fontAlignY=40&desc=Software%20Developer%20%7C%20Backend%20%C2%B7%20AI%20%C2%B7%20Data&descAlignY=62&descSize=15&descColor=67E8F9&animation=fadeIn" width="100%" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanas3kar&label=Profile%20views&color=0e75b6&style=flat" alt="dhanas3kar" /> </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1200&color=67E8F9&center=true&vCenter=true&width=700&lines=Building+systems%2C+not+just+interfaces.;Go+%7C+Python+%7C+TypeScript+%7C+PostgreSQL;AI+%2F+ML+%7C+Data+Engineering" />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanas3kar" alt="dhanas3kar" /></a> </p>
 
-<br/>
+- 🔭 I’m currently working on [Hakiku](https://github.com/Dhanas3kar/Hakiku.git)
 
-<a href="https://github.com/Dhanas3kar"><img src="https://img.shields.io/badge/GITHUB-Dhanas3kar-020617?style=for-the-badge&logo=github&logoColor=67E8F9&labelColor=020617" /></a>
-<a href="https://www.linkedin.com/in/dhanasekar-murugesan-a9321731a/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0E7490?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617" /></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-312E81?style=for-the-badge&logo=gmail&logoColor=E0F2FE&labelColor=020617" /></a>
+- 🌱 I’m currently learning **DSA, SYSTEM DESIGN AND TRANFORMATIVE AI SOLUTIONS**
 
-<img src="https://komarev.com/ghpvc/?username=Dhanas3kar&style=for-the-badge&color=0E7490&label=VISITORS" />
+- 👨‍💻 All of my projects are available at [https://github.com/Dhanas3kar](https://github.com/Dhanas3kar)
 
-</div>
+- 💬 Ask me about **REACTJS, NODEJS, POSTGRESQL,PYTHON**
 
----
+- 📫 How to reach me **dhanasekarmurgesan@gmail.com**
 
-### `> whoami`
+- ⚡ Fun fact **There Ai'nt nobody Who can love me like You**
 
-CS undergrad at **SRM Institute of Science and Technology, Trichy**, building backend systems, AI/ML pipelines, and full-stack apps. I like the work that happens behind the interface — API design, data modeling, and making things that hold up outside the demo.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/dhanas3kar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhanas3kar" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-### `> stack`
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanas3kar&show_icons=true&locale=en&layout=compact" alt="dhanas3kar" /></p>
 
-**Languages**
-<p align="left"><img src="https://skillicons.dev/icons?i=go,python,typescript,javascript,c&theme=dark" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanas3kar&show_icons=true&locale=en" alt="dhanas3kar" /></p>
 
-**Backend & Web**
-<p align="left"><img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,react,nextjs&theme=dark" /></p>
-
-**Data**
-<p align="left"><img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" /></p>
-
-**AI / ML**
-<p align="left"><img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" /></p>
-
-**Infra & Tools**
-<p align="left"><img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,postman&theme=dark" /></p>
-
----
-
-### `> projects`
-
-- **[Hakiku](https://github.com/Dhanas3kar/Hakiku)** — a full-stack app built around intelligent functionality, from backend services to database to UI, end to end.
-- **[Thirumathi-Kart](https://github.com/Rishinitt07/thirumathi_kart)** — a full-stack e-commerce platform with buyer and seller workflows, auth, cart, and order management.
-- **Scribify AI** — an OCR + handwriting recognition pipeline feeding an LLM grader that scores and gives feedback on written answers.
-- **QuotAI Migration** — a modular ETL pipeline built for controlled transformation, validation, and reconciliation across data migrations.
-- **CyberNeural IDS** — a hybrid intrusion detection system combining autoencoder anomaly detection with CNN/LSTM classification.
-
----
-
-### `> github stats`
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Dhanas3kar&show_icons=true&hide_border=true&count_private=true&bg_color=020617&title_color=67E8F9&icon_color=8B5CF6&text_color=CBD5E1&ring_color=7C3AED" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanas3kar&layout=compact&hide_border=true&bg_color=020617&title_color=67E8F9&text_color=CBD5E1" height="165" />
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=Dhanas3kar&theme=transparent&hide_border=true&background=020617&ring=7C3AED&fire=06B6D4&currStreakLabel=67E8F9&sideLabels=94A3B8&dates=64748B" width="65%" />
-</div>
-
----
-
-### `> contributions`
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Dhanas3kar/Dhanas3kar/output/github-contribution-grid-snake-dark.svg" width="90%" />
-</div>
-
----
-
-### `> currently`
-
-Deepening Go + system design, shipping AI-powered workflows, and getting more disciplined about testing, observability, and CI/CD.
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:312E81,50:0E7490,75:06B6D4,100:020617&height=100&section=footer" width="100%" />
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanas3kar&" alt="dhanas3kar" /></p>
